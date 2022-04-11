@@ -138,8 +138,8 @@
 	#books img{width: 175px;height: 175px;}
 	#adright{width: 225px;height: 375px;}
 
-	.FBG_resize { margin:0 auto; padding:0; width:970px; border-bottom:1px dashed #999;  border-top:1px solid #999;}
-	.FBG_resize2 { margin:0 auto; padding:0; width:970px; border-bottom:1px solid #999;  border-top:1px dashed  #999;}
+	.FBG_resize { margin:0 auto; padding:0; width:100%; border-bottom:1px dashed #999;  border-top:1px solid #999;}
+	.FBG_resize2 { margin:0 auto; padding:0; width:100%; border-bottom:1px solid #999;  border-top:1px dashed  #999;}
 
 	.FBG { margin:0; padding:0; }
 	.FBG img { width: 81px;height: 78px;float:left; margin:5px 10px 5px 0; padding:0;}
