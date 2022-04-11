@@ -87,7 +87,7 @@
 	.main { margin:0 auto; padding:0;}
 
 
-	.header_resize { margin:0 auto; padding:0; width:968px;}
+	.header_resize { margin:0 auto; padding:0; width:100%;}
 	.header { background:url(../images/header_bg.gif) top repeat-x;  margin:0; padding:0;}
 
 	h1 { margin:0; padding:12px 0 12px 80px; color:#fff; font:normal 60px/10em Arial, Helvetica, sans-serif;}
