@@ -80,7 +80,7 @@
 	.myvideo{ width: 320px;height: 240px;}
 }
 @media screen and (max-width: 800px){
-	body { margin:0; padding:0; width:100%;  background:#ffffff; }
+	body { margin:0; padding:0; width:100%;  background:#ffffff;overflow-x:hidden; }
 	html { padding:0; margin:0;}
 	li.bg, .bg { clear:both; padding:0; margin:10px 0; height:5px;  list-style:none;}
 	p.clr, .clr { clear:both; padding:0; margin:0;}
