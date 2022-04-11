@@ -122,8 +122,8 @@
 	.body img { float:left; margin:5px; padding:0;}
 	.body img.floated { float:right; margin:10px; padding:0;width: 98px;height: 98px;}
 	.body a { color:#69bacb; text-decoration:none;}
-	.left { float:left; width:655px; margin:0; padding:0;}
-	.right { float:right; width:255px; margin:0; padding:0;}
+	.left { float:left;  margin:0; padding:0;}
+	.right {width:255px; margin:0; padding:0;}
 	.right .blog { border:1px solid #dedede; margin:10px 0; padding:10px; background:#fff;}
 	.right ul { list-style:none; margin:5px 15px; padding:0;}
 	.right li { font: normal 14px Arial, Helvetica, sans-serif; color:#464646;  padding:5px 0; margin:3px 0;}
