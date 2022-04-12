@@ -6,7 +6,6 @@ function random(a,b){
 
 
 function fly(ele,obj,cb){
-  console.log(document.documentElement.scrollTop);
     clearInterval(ele.t);
     ele.t = setInterval(() => {
         var i = true;
