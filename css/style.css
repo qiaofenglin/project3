@@ -78,6 +78,8 @@
 	p.response { text-align:center; color:#F00; font: normal 11px Georgia, "Times New Roman", Times, serif; line-height:1.8em; width:auto; }
 	#myphoto{ width: 300px;height: 300px;}
 	.myvideo{ width: 320px;height: 240px;}
+	#map{width: 100%;height: 400px;margin-top: -200px;}
+	#googleMap{width: 100%;height: 400px;}
 }
 @media screen and (max-width: 800px){
 	body { margin:0; padding:0; width:100%;  background:#ffffff;overflow-x:hidden; }
